@@ -1,4 +1,2 @@
-
-
-
 ## 🤖 
+Trader on BASE
