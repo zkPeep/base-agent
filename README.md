@@ -3,8 +3,8 @@ Crypto Trading Dog! Your best friend and personal Trader. Learn and build AI app
 
 
 
-## Deployments 
+## Deployments
 
 🌽  
 
-## 
+## 🛠️ Contributing
